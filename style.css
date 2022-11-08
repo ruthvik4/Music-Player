@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #428ec5;
+}
+
+h1 {
+    font-family: 'Arvo', cursive;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.drum {
+    font-size: 5rem;
+    outline: none;
+    border: 10px solid #404b69;
+    font-weight: 900;
+    display: inline-block;
+    line-height: 2;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
